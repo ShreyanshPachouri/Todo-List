@@ -4,13 +4,13 @@ import viteLogo from "/vite.svg";
 import CssBaseline from "@mui/material/CssBaseline";
 import "./App.css";
 import TodoList from "./TodoList";
-import Navbar from "./Navbar";
+import Navbar1 from "./Navbar";
 
 function App() {
   return (
     <>
       <CssBaseline />
-      <Navbar />
+      <Navbar1 />
       <TodoList />
     </>
   );
